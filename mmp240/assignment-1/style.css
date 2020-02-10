@@ -1,0 +1,47 @@
+*{
+  margin: 0px;
+  padding:0px;
+  border: none;
+}
+body{
+  text-align: center;
+}
+
+
+.container{
+  max-width: 1140px;
+  padding: 32px;
+  margin: 32px;
+
+}
+.page-header {
+  font-family: serif;
+
+}
+h1{
+  color: orange;
+}
+
+}
+footer{
+  text-align: left;
+}
+.fluid-image{
+  width: 100%;
+}
+.orange-color{
+  color: orange;
+}
+
+p{
+  margin-bottom: 1em;
+}
+.main-menu li{
+  display: inline;
+}
+nav{
+  background-color: coral;
+  padding: 0.75em;
+  padding-left: 1em;
+  margin-top: 1em;
+}
